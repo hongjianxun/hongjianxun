@@ -4,7 +4,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,androidstudio,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,ts,js,html,css,react)](https://skillicons.dev)
 
 <!--
 **hongjianxun/hongjianxun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
