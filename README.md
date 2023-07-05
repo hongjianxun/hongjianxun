@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/hongjianxun) [![wakatime](https://wakatime.com/badge/user/b300ac06-8d92-4828-9b0c-38f76f676828.svg)](https://wakatime.com/@hongjianxun)
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,androidstudio,flutter,dart)](https://skillicons.dev)
